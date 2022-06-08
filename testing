@@ -1,0 +1,8 @@
+//write a program to print jay shree ram
+comment:
+#include<stdio.h>
+int main()
+{
+printf("jay shree ram");
+return 0;
+}
